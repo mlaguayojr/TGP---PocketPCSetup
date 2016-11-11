@@ -17,7 +17,7 @@ The source code contains sensitive information and thus will not be provided on 
 
 ### Software
 All software belong to their respective owners and all rights remain to their respective owners. I take no responsibilites for results of the program that were ran on any devices not mentioned in the Compatibility section.
-asd
+
 * [MyMobiler] MyMobiler
 * [BlueSkyApps] Soft Reset
 * [DataWedge] DataWedge
@@ -30,3 +30,4 @@ asd
 [DataWedge]: http://www.barcodedatalink.com/pages/datawedge.php
 [Quick Warehouse]: #
 [.NETCF35]: https://www.microsoft.com/en-us/download/details.aspx?id=65
+[Windows PowerToys Development Kit]: #
