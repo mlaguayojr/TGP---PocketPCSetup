@@ -22,7 +22,7 @@ All software belong to their respective owners and all rights remain to their re
 * [BlueSkyApps] Soft Reset
 * [DataWedge] DataWedge
 * [Quick Warehouse] EquipmentTrak
-* [Windows PowerToys Development Kit] rapistart and cecopy
+* [Windows PowerToys Development Kit] rapistart, cecopy, Portable CMD
 * [.NETCF35] .NET CF Version 3.5 Redistributable
 
 [MyMobiler]: http://www.mymobiler.com/windowsmobile.html
