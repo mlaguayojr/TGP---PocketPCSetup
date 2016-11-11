@@ -1,5 +1,6 @@
 # PocketPC Setup
 2015 - 2016 | Mario Luis Aguayo Jr. (mlaguayojr@gmail.com)
+
 ## About
 An solution intended for O2Safe Solutions for automating the programming method for their Scanners/PocketPC Devices.
 
@@ -9,7 +10,7 @@ An solution intended for O2Safe Solutions for automating the programming method 
 * If you are running Windows 7: Windows Mobile Device Manager
 
 ## Disclaimers
-The source code contains sensitive information and thus will not be provided on a public branch.
+The source code contains sensitive information and thus will not be provided on a public branch; only releases can be downloaded
 
 ### Software
 All software belong to their respective owners and all rights remain to their respective owners.
